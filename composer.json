@@ -1,0 +1,23 @@
+{
+    "name": "monarkee/bumbleblog",
+    "version": "1.0.0",
+    "description": "A reusable Blog setup for Bumble",
+    "authors": [
+        {
+            "name": "David Hemphill",
+            "email": "davidlee.hemphill@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "laravel/laravel": "4.2.*",
+        "monarkee/bumble": "dev-master",
+        "league/commonmark": "~0.5@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Monarkee\\Bumble\\Blog\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
