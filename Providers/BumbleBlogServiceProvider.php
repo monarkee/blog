@@ -2,7 +2,7 @@
 
 use Illuminate\Support\ServiceProvider;
 
-class BumbleServiceProvider extends ServiceProvider {
+class BumbleBlogServiceProvider extends ServiceProvider {
 
     /**
      * Indicates if loading of the provider is deferred.
