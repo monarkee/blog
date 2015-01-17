@@ -10,7 +10,6 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "laravel/laravel": "4.2.*",
         "monarkee/bumble": "dev-master",
         "league/commonmark": "~0.5@dev"
     },
